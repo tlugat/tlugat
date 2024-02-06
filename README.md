@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Téo Lugat</h1>
 <h3 align="center">A Junior front-end web developer. Love practice and learn everything as possible!</h3>
 
-- 🔭 I’m currently working on [Totoro](https://github.com/totoro-organization/totoro)
+- 🔭 I’m currently working on [Barbers](https://github.com/ESGI-te/faded-frontend)
 
 - 🌱 I’m currently learning **ReactJS, Javascript, Typescript... Front-end techno**
 
